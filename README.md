@@ -1,5 +1,5 @@
-- 👋 Hi, I’m L3GION .
-- 👀 I’m interested in Data science, Graphics, AI, Web Development, App Development, Pentesting, rick and morty
+- 👋 Hi, I’m L3GION . “Lemme check my list of powers and weaknesses: ability to do anything, but only whenever I want.”
+- 👀 I’m interested in Data science, Graphics, AI, Web Development, App Development, Pentesting, and rick & morty Wubba-lubba-dub-dub!!!!
 - 🌱 I’m currently learning Data Visualization, manipulation, wranggling, and Machine Learning algorithms , and watching Rick and morty 22 times.
 - 💞️ I’m looking to collaborate on Graphics World
 - 📫 How to reach me ... chowk ma aayera sodh, ghar mai liyera chod dincha 😉, chowk chahi nasodh 😏
