@@ -15,7 +15,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Calculus](https://img.shields.io/badge/Calculus-%E2%88%9A-00bfff?style=for-the-badge)
 ## Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
