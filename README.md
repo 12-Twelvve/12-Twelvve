@@ -7,9 +7,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12-Twelvve&layout=compact&theme=radical)
 
-## Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=12-Twelvve&theme=react-dark)
 
 ## Technologies I Use
 
