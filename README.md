@@ -1,7 +1,9 @@
 - 👋 Lemme check my list of powers and weaknesses: ability to do anything, but only whenever I want.
 - 👀 I’m interested in Data science, AI, DevOps, linux, cloud, Penetrating.........
 - 🌱 I’m currently becoming GOD ...
-=====================================================================================================
+
+---
+
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12-Twelvve&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12-Twelvve&layout=compact&theme=radical)
 
